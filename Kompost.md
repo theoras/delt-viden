@@ -37,7 +37,7 @@ share: true
 
 ---
 
-![[Kompostsystem.png]]
+![[Kompostsystem.svg]]
 ---
 
 Kilder:
